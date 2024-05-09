@@ -1,4 +1,4 @@
-# APTO_Distribution_System_DSA_Project
+# APTO Distribution System DSA Project
   - # Project Description
     - There is always a constant need to improve and organize the inner work process for the
       company in an efficient manner, especially for the distribution companies because they
